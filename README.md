@@ -1,5 +1,3 @@
-# TATA-CLiQ-E-Commerce-Business-Intelligence-Customer-Analytics
-Power BI Business Intelligence and Customer Analytics project for TATA CLiQ e-commerce data.
 # 🛍️ TATA CLIQ — E-Commerce Sales, Customer & Product Analytics (Power BI)
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
